@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/chandiosamad1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/chandiosamad1?logo=twitter&style=for-the-badge" alt="https://twitter.com/chandiosamad1" /></a> </p>
 
-- 🌱 I’m currently learning **mobile application and development, Blockchain**
+- 🌱 I’m currently learning **Nextjs,TyperScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandiosamad07](https://github.com/chandiosamad07)
 
