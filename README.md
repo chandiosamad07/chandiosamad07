@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandiosamad07&label=Profile%20views&color=0e75b6&style=flat" alt="chandiosamad07" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandiosamad07](https://github.com/chandiosamad07)
 
-- 💬 Ask me about **frontend developer, AI , ML , Java Developer**
+- 💬 Ask me about **frontend developer, MERN Stack, AI , ML , Java Developer**
 
 - 📫 How to reach me **absamadchandio@gmail.com**
 
